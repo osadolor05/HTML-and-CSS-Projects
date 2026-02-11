@@ -1,2 +1,3 @@
 # HTML-and-CSS-Projects
-HTML and CSS projects 
+This repository is for my HTML and CSS projects
+The initial phase of this projects are for learning purpose
