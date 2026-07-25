@@ -1,5 +1,5 @@
 ol {
-    list-style-type: number;
+    list-style-type: lower-roman;
 }
 ul {
     list-style-type: square;
