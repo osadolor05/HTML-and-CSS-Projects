@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>HTML Table</title>
+		<meta charset="utf-8">
+	</head>
+	<style>
+		.Div_textC {
+		text-align: center;
+		}
+	</style>
+	<body>
+	  
+	<footer>
+	<div class="Div_textC">	
+	p>DEVERAL CAPITALS LTD<sup>&#174;</sup> 2026</p>
+	</div>
+	</footer>
+	</body>
+</html>
